@@ -11,6 +11,6 @@ Download the template from the [releases](https://github.com/schxma2/TrapNation2
 - Spectrum
 - Glow
 - Instagram lower third
-# Preview
+# Preview (this screenshot is for a new version that is coming soon, v2.1.1)
 
 ![frame](https://github.com/schxma2/TrapNation2018/assets/118257712/14182904-a812-42cc-a1eb-e60722bfb8b9)
