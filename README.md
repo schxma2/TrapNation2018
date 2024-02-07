@@ -10,8 +10,7 @@ Download the template from the [releases](https://github.com/schxma2/TrapNation2
 - Particles (looped video)
 - Spectrum
 - Glow
-- Instagram lower third (Looking for)
-
+- Instagram lower third
 # Preview
 
 ![frame](https://github.com/schxma2/TrapNation2018/assets/118257712/14182904-a812-42cc-a1eb-e60722bfb8b9)
