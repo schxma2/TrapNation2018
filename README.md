@@ -1,9 +1,7 @@
 # TrapNation2018
-An adobe after effects cs6 Trap Nation 2018 template, pretty accurate
 
+An Adobe After Effects CS6 Trap Nation 2018 template, pretty accurate.
 
-download:
-couldnt upload due to file size soooo
-https://drive.google.com/file/d/1h-zjYmBI8YuPmsJZnrLhl82BOYnCCMLP/view?usp=sharing
+Download the template [here](https://drive.google.com/file/d/1h-zjYmBI8YuPmsJZnrLhl82BOYnCCMLP/view?usp=sharing).
 
-[!Preview](frame.png)
+![frame](https://github.com/schxma2/TrapNation2018/assets/118257712/14182904-a812-42cc-a1eb-e60722bfb8b9)
