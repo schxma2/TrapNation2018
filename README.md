@@ -14,7 +14,7 @@ Download the template from the [releases](https://github.com/schxma2/TrapNation2
 
 - Glow
 - Instagram lower third
-# Preview (latest release)
+# Preview (v2.1.1)
 
 https://github.com/schxma2/TrapNation2018/assets/118257712/3994d472-eca2-475b-805d-75f012e4e865
 
