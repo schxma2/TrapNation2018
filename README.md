@@ -14,9 +14,7 @@ Download the template from the [releases](https://github.com/schxma2/TrapNation2
 
 # Preview (v2.1.4)
 
-https://github.com/schxma2/TrapNation2018/assets/118257712/a5920776-093d-4ae0-ab51-25c7470cea5a
-
-
+https://github.com/schxma2/TrapNation2018/assets/118257712/6e1a3009-7936-4358-9bf6-f86deca8e4d6
 
 
 # Preview (v2.1.1)
