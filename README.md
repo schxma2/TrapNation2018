@@ -25,4 +25,3 @@ https://github.com/schxma2/TrapNation2018/assets/118257712/a5920776-093d-4ae0-ab
 
 
 
-![frame](https://github.com/schxma2/TrapNation2018/assets/118257712/14182904-a812-42cc-a1eb-e60722bfb8b9)
