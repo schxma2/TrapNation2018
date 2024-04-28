@@ -19,4 +19,10 @@ Download the template from the [releases](https://github.com/schxma2/TrapNation2
 https://github.com/schxma2/TrapNation2018/assets/118257712/9bea748e-669b-4a7c-b054-d7c45e73b373
 
 
+# Prerequisites
+- Trapcode Suite 12
+- BorisFX Sapphire 10
+- Twixtor
+- Separate RGB
 
+And obviously After Effects CS6
