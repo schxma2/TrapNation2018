@@ -7,21 +7,16 @@ Download the template from the [releases](https://github.com/schxma2/TrapNation2
 ## Features:
 - Intro (video)
 - Long particles (video)
-- Particles (looped video)
+- Particles 
 - Spectrum
 - Glow
 - Instagram lower third
+- Twitter Lower Third
+- Easy to use checkboxes to change stuff in the project 
 
-# Preview (v2.1.4)
+# Preview (v2.2)
 
+https://github.com/schxma2/TrapNation2018/assets/118257712/9bea748e-669b-4a7c-b054-d7c45e73b373
 
-
-https://github.com/schxma2/TrapNation2018/assets/118257712/6b912dc5-6573-4679-ad76-e385dcd09bf5
-
-
-
-# Preview (v2.1.1)
-
-https://github.com/schxma2/TrapNation2018/assets/118257712/3994d472-eca2-475b-805d-75f012e4e865
 
 
